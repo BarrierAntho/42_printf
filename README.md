@@ -3,7 +3,6 @@
 ## Content
 - [Historic :clock7:](#historic-clock7)
 - [Introduction :traffic\_light:](#introduction-traffic_light)
-- [Topics :newspaper:](#topics-newspaper)
 - [Unit test :video\_game: (:construction: In progress :construction:)](#unit-test-video_game)
 - [Sources :link:](#sources-link)
 
@@ -16,7 +15,7 @@
 ## Introduction :traffic\_light:
 
 ## Unit test :video\_game:
-:construction: In progress :construction:
+:construction: In progress :construction:  
 [Go to 42\_Defender\_Printf](https://github.com/BarrierAntho/42_Defender_Ft_Printf)
 
 ## Sources :link:
